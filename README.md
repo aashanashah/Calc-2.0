@@ -19,7 +19,7 @@ Other Features :
 
 # Screenshots
 
-Potrait Layout
+Portrait Layout
 
 ![](Screenshots/screen1.png) 
 
